@@ -2,7 +2,7 @@
 
 |paper name|key words|code|
 |----------|---------|----|
-|Noisy-Correspondence Learning for Text-to-Image Person Re-identification [paper](https://arxiv.org/abs/2308.09911)|text-image|-|
+|**Noisy-Correspondence Learning for Text-to-Image Person Re-identification** [paper](https://arxiv.org/abs/2308.09911)|text-image|-|
 |Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification [paper](https://arxiv.org/abs/2403.10254)|multi-modal|-|
 |Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions [paper](https://arxiv.org/abs/2306.07520)|multi-modal|-|
 |CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification [paper](https://arxiv.org/abs/2311.10605)|ordinary|-|
